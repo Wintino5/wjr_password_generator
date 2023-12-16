@@ -9,7 +9,7 @@ In this challenge we used JavaScript to create a password generator. We gave the
 
 ## Repository
 
-Link to deployed code: https://wintino5.github.io/horiseon_portfolio/
+Link to deployed code: https://wintino5.github.io/wjr_password_generator
 
 ## Technologies
 
